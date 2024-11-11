@@ -1,0 +1,1 @@
+Este es el archivo de readme, como realmente no es ninguna aplicacion no hay nada importante 
